@@ -13,6 +13,7 @@ Total Expenses – Find out how much you've spent so far.
 Filter by Category – Track spending in different areas.
 
 
+
  How to Use:
 
 Run the program in Python 
@@ -20,10 +21,16 @@ Run the program in Python
 Pick an option:
 
 1 to add an expense.
+
 2 to list all expenses.
+
 3 to see your total.
+
 4 to filter by category.
+
 5 to exit.
+
+
 
 That’s it!
 Super easy to use, no setup, just run and go.
