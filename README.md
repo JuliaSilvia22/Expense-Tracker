@@ -2,6 +2,8 @@
 
 Hey there! Welcome to my Expense Tracker! A simple way to keep tabs on our spending. Whether you’re saving up or just curious where your money goes, this little tool has your back! 😊
 
+
+
  What It Does:
 
 Add Expenses – Log what you spend, easy-peasy!
@@ -11,6 +13,8 @@ View All Expenses – See everything at a glance.
 Total Expenses – Find out how much you've spent so far.
 
 Filter by Category – Track spending in different areas.
+
+
 
 
 
