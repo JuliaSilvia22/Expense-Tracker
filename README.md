@@ -3,6 +3,7 @@
 Hey there! Welcome to my Expense Tracker! A simple way to keep tabs on our spending. Whether you’re saving up or just curious where your money goes, this little tool has your back! 😊
 
 
+_________________________________________________________
 
  What It Does:
 
@@ -15,7 +16,7 @@ Total Expenses – Find out how much you've spent so far.
 Filter by Category – Track spending in different areas.
 
 
-
+________________________________________
 
 
  How to Use:
@@ -24,17 +25,17 @@ Run the program in Python
 
 Pick an option:
 
-1 to add an expense.
+1. to add an expense.
 
-2 to list all expenses.
+2. to list all expenses.
 
-3 to see your total.
+3. to see your total.
 
-4 to filter by category.
+4. to filter by category.
 
-5 to exit.
+5. to exit.
 
-
+________________________________________
 
 That’s it!
 Super easy to use, no setup, just run and go.
